@@ -1,0 +1,3 @@
+Mayday, mayday! This is Gamma39er...
+
+I'm here to contribute to the Freespace Source Code Project and learn more about graphics and game development. My interest in FSO is for learning purposes and just because I've always wanted to update Freespace to a state I imagined it would be since my little kid brain first laid eyes on the first mission of Descent: Freespace - The Great War.
